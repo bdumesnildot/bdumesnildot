@@ -1,4 +1,3 @@
-!-- Banner -->
 <!-- [Banner](link) -->
 
 <p align="center">
